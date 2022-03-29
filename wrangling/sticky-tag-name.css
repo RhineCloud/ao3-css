@@ -1,0 +1,6 @@
+div#main.tags-edit h2.heading a.tag {
+    background: rgba(255, 255, 255, 25%);
+    position: -webkit-sticky; /* workaround for safari */
+    position: sticky;
+    top: 0;
+}
